@@ -13,7 +13,7 @@ The take profit spreadsheet is used to know in real time the RSI of more than 20
 - RSI calculado automáticamente.
 - Configuración visual para facilitar el análisis.
 
-![Vista previa de la planilla](https://github.com/caborusty/take-profit/blob/main/image)
+![Vista previa de la planilla](https://github.com/caborusty/take-profit/blob/main/2024-10-13_112002.jpg)
 
 Si te interesa obtener esta planilla, contáctame para más información o para adquirirla.
 
